@@ -1,0 +1,1 @@
+self.importScripts('https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.12/worker-json.js');
